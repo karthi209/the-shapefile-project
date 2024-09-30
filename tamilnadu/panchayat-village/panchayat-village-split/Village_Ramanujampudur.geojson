@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Village_Ramanujampudur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "District": "Thoothukudi", "Dist_Code": 594, "Block": "Karungulam", "Block_Code": 6422, "Village": "Ramanujampudur", "Village_co": 231817.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 77.81936081300006, 8.568873617000065 ], [ 77.818002398000033, 8.56879255900003 ], [ 77.816479449000042, 8.569211798000026 ], [ 77.818553439000084, 8.576190479000047 ], [ 77.82103165500007, 8.575397832000021 ], [ 77.81936081300006, 8.568873617000065 ] ] ] ] } }
+]
+}
