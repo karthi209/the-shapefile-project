@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "taluk_name_Alangudi",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "district_c": 22, "taluk_code": 15, "dist_name": "Pudukkottai", "taluk_name": "Alangudi", "lgddcode": 582.0, "lgdtcode": 5824.0, "dtname": "புதுக்கோட்டை", "ttname": "ஆலங்குடி" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 78.868880517122378, 10.299612800690278, 0.0 ], [ 78.868868342100569, 10.299610854557429, 0.0 ], [ 78.86886644857799, 10.299622209847312, 0.0 ], [ 78.868944424745521, 10.299627665584445, 0.0 ], [ 78.868880517122378, 10.299612800690278, 0.0 ] ] ] ] } }
-]
-}
