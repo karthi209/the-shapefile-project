@@ -1,7 +1,7 @@
 ![repository-open-graph-template-01](https://github.com/karthi209/the-shapefile-project/assets/63890769/4720e71e-f8aa-4aad-b9a5-bf201958b55b)
 
 ## Welcome to the shapefile project!
-I know this project is named **'the shapefile project'** but it actually does not contain nany shape file. I use geoJSON and gpkg (geopackage) formats to store these shapy stuff. I just felt the name 'shape files' has a human touch to it, that's it.
+I know this project is named **'the shapefile project'** but it actually does not contain any shape file. I use geoJSON and gpkg (geopackage) formats to store these shapy stuff. I just felt the name 'shape files' has a human touch to it, that's it.
 
 I plan to put all the stuff I hand drew using various sources here. I did not bother to list the sources as of now, will probably do it in the future.
 
