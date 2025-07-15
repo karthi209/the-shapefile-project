@@ -1,0 +1,29 @@
+{
+"type": "FeatureCollection",
+"name": "mrts-stations",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": null, "Line": null, "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ ] } },
+{ "type": "Feature", "properties": { "Name": "Chennai Beach", "Line": "South Line", "Name (ta)": "சென்னைக் கடற்கரை" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.292109147857417, 13.091917471645576 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Chennai Fort", "Line": "South Line", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.282668843322853, 13.083075313365924 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Park Town", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.276314358683848, 13.079531204665315 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Chintadaripet", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.2738213234543, 13.073794487554702 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Chepauk", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.280549846868468, 13.061915627206016 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Thiruvallikeni", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.280549846868425, 13.055935316445749 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Light House", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.276889610282325, 13.045551370348967 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Mundakakanni Amman Koil", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.269860519995149, 13.040658149563738 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Thirumayilai", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.267440956667897, 13.035412633021153 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Mandaveli", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.260519569510222, 13.028122896660379 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Greenways Road", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.252489424554568, 13.021473936368338 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Kotturpuram", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.248224714590563, 13.013715234725892 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Kasturiba Nagar", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.247646958268092, 13.005370576893096 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Indira Nagar", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.249720869691402, 12.996077073276437 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Tiruvanmiyur", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.251534289824832, 12.988986312533427 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Taramani", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.241623097189233, 12.978645121365695 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Perungudi", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.232098466948685, 12.97594402345994 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Velachery", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.219364450431357, 12.967316585336706 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Puzhudivakkam", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.205014052063902, 12.97751749791664 ] ] } },
+{ "type": "Feature", "properties": { "Name": "Adambakkam", "Line": "MRTS", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.196862845451079, 12.982372100138932 ] ] } },
+{ "type": "Feature", "properties": { "Name": "St Thomas Mount", "Line": "South Line", "Name (ta)": null }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 80.198597784234337, 12.995113047597387 ] ] } }
+]
+}

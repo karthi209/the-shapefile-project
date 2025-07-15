@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Municipali_Manapparai",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "District": "Tiruchirapalli", "Municipali": "Manapparai" }, "geometry": { "type": "MultiPolygon", "coordinates": [ ] } }
+]
+}
